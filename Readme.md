@@ -45,9 +45,9 @@ Note: Each day's folder is self-contained. Review the main.tf, variables.tf, and
 
 Day Highlights
 
-Day 1: Launch a simple EC2 instance.
-Day 2: Deploy multiple EC2s, configure security groups, use user data scripts (userdata.sh, userdata2.sh), create an S3 bucket, and set up an ALB.
-Day 3: Use modules (modules/ec2_instance/) for reusable infrastructure.
-Day 4: Store Terraform state remotely using backend.tf.
-Day 5: Deploy a Python Flask app (app.py) on EC2.
-Day 6: Manage environments with workspaces and variable maps, using modules (modules/ec2_instance/).
+**Day 1**: Launch a simple EC2 instance. <br/>
+**Day 2**: Deploy multiple EC2s, configure security groups, use user data scripts (userdata.sh, userdata2.sh), create an S3 bucket, and set up an ALB. <br/>
+**Day 3**: Use modules (modules/ec2_instance/) for reusable infrastructure. <br/>
+**Day 4**: Store Terraform state remotely using backend.tf. <br/>
+**Day 5**: Deploy a Python Flask app (app.py) on EC2. <br/>
+**Day 6**: Manage environments with workspaces and variable maps, using modules (modules/ec2_instance/).
